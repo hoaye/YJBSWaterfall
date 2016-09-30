@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/longchuang/!svn/ver/1200/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/longchuang/!svn/ver/1200/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageManager.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDownloaderOperation.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+WebP.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/NSData+ImageContentType.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIView+WebCacheOperation.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDownloader.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/longchuang/!svn/ver/832/trunk/pdoctor-ios/YiJianDoctor/YiJianDoctor/Resource/lib/SDWebImage/SDWebImageOperation.h
+END

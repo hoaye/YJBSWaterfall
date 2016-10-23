@@ -35,12 +35,13 @@
 
 ### 效果是这个样子的
 ##### 4列
-![1](http://i4.piimg.com/e1223813d25460b9.png)
+<img src="http://i4.piimg.com/e1223813d25460b9.png" width="300">
 ##### 3列
-![2](http://i4.piimg.com/45250ac674e2765d.png)
+<img src="http://i4.piimg.com/45250ac674e2765d.png" width="300">
+<!--![2](http://i4.piimg.com/45250ac674e2765d.png)-->
 ##### 2列
-![3](http://i4.piimg.com/a28a667f44e12515.png)
+<img src="http://i4.piimg.com/a28a667f44e12515.png" width="300">
 ##### 2列
-![4](http://i4.piimg.com/fd6817d1463c7f9c.png)
+<img src="http://i4.piimg.com/fd6817d1463c7f9c.png" width="300">
 ##### 点击了某一个
-![5](http://i4.piimg.com/16cded0f67bacbc5.png)
+<img src="http://i4.piimg.com/16cded0f67bacbc5.png" width="300">

@@ -291,7 +291,7 @@
 				TargetAttributes = {
 					63D49FF51CC2407F0052888C = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 33JZ8ZWGJN;
+						DevelopmentTeam = 33K3DU6932;
 					};
 				};
 			};
@@ -474,11 +474,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 33JZ8ZWGJN;
+				DEVELOPMENT_TEAM = 33K3DU6932;
 				INFOPLIST_FILE = YJBSWaterfall/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ismonkey.YJBSWaterfall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.houmanager.de;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -487,11 +487,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 33JZ8ZWGJN;
+				DEVELOPMENT_TEAM = 33K3DU6932;
 				INFOPLIST_FILE = YJBSWaterfall/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ismonkey.YJBSWaterfall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.houmanager.de;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

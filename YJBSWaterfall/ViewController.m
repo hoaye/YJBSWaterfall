@@ -75,7 +75,7 @@ static NSString * const collectCellID = @"cellID";
 
 - (void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath{
     NSString * indexStr = [NSString stringWithFormat:@"选中了第%ld个", indexPath.item];
-    UIAlertView * alertView = [[UIAlertView alloc] initWithTitle:@"YJ瀑布流" message:indexStr delegate:self cancelButtonTitle:@"取消" otherButtonTitles:@"确定", nil];
+    UIAlertView * alertView = [[UIAlertView alloc] initWithTitle:@"YJBSWaterfall" message:indexStr delegate:self cancelButtonTitle:@"取消" otherButtonTitles:@"确定", nil];
     [alertView show];
 }
 
@@ -86,8 +86,6 @@ static NSString * const collectCellID = @"cellID";
 }
 
 - (NSInteger)waterFallColumnNumberInWaterFallLayout:(YJWaterfallViewLayout *)waterFallLayout{
-    
-    
     return 4;
 }
 

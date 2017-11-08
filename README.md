@@ -34,14 +34,7 @@
 ```
 
 ### 效果是这个样子的
-##### 4列
-<img src="http://i4.piimg.com/e1223813d25460b9.png" width="300">
-##### 3列
-<img src="http://i4.piimg.com/45250ac674e2765d.png" width="300">
-<!--![2](http://i4.piimg.com/45250ac674e2765d.png)-->
-##### 2列
-<img src="http://i4.piimg.com/a28a667f44e12515.png" width="300">
-##### 2列
-<img src="http://i4.piimg.com/fd6817d1463c7f9c.png" width="300">
-##### 点击了某一个
-<img src="http://i4.piimg.com/16cded0f67bacbc5.png" width="300">
+
+4列   |   3列  | 2列 | 1列 | 点击回调
+-------|-----|-----|----|-----
+<img src="https://ws2.sinaimg.cn/large/006tNc79ly1flaqpve393j30ku112b29.jpg" width="200"> | <img src="https://ws1.sinaimg.cn/large/006tNc79ly1flaqw7y6b2j30ku1124qp.jpg" width="200"> | <img src="https://ws4.sinaimg.cn/large/006tNc79ly1flaqwmk0ryj30ku1127pt.jpg" width="200"> | <img src="https://ws3.sinaimg.cn/large/006tNc79ly1flaqwyfx0zj30ku1121ke.jpg" width="200"> | <img src="https://ws1.sinaimg.cn/large/006tNc79ly1flaqxc1dc2j30ku1124i5.jpg" width="200">
